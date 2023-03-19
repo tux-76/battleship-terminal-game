@@ -24,7 +24,7 @@ class Player:
         self.type = playerType
 
     def placeShips(self, ships):
-
+        pass
 
 # user
 # ====
@@ -33,3 +33,4 @@ class User(Player):
         super().__init__(screen, name, "User")
 
     def placeShips():
+        pass
